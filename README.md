@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wobey96
-- 👀 I’m interested in operating systems, computer graphics, computer architecture, gameplay/engine development, computer networks, embedded systems, and distributed systems
-- 🌱 I’m currently learning Computer Graphics, Game play/engine development, and operating systems 
+- 👀 I’m interested in computer graphics, gameplay/engine development, and embedded systems
+- 🌱 I’m currently learning Computer Graphics, Game play/engine development, and embedded systems 
 - 💞️ I’m looking to collaborate on Computer Graphics and Game Play/Engine Development projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0)
 
