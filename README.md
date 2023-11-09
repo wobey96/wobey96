@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wobey96
-- 👀 I’m interested in computer graphics, gameplay/engine development, and embedded systems
+- 👀 I’m interested in computer graphics and gameplay/engine development
 - 🌱 I’m currently learning Computer Graphics, Gameplay/engine development, and embedded systems 
 - 💞️ I’m looking to collaborate on Computer Graphics and Game Play/Engine Development projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0)
