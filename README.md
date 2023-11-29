@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wobey96
-- 👀 I’m interested in computer graphics
-- 🌱 I’m currently learning Computer Graphics 
-- 💞️ I’m looking to collaborate on Computer Graphics Development projects
+- 👋 Hi, I’m @wobey96, Embedded Software Engineer by day aspiring Graphics Software Engineer by night
+- 👀 I’m interested in Embedded Systems and Computer Graphics
+- 🌱 I’m currently learning Embedded Systems and Computer Graphics 
+- 💞️ I’m looking to collaborate on Computer Graphics projects
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0)
 
 <!---
