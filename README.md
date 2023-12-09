@@ -2,7 +2,7 @@
 - 👀 I’m interested Computer Graphics
 - 🌱 I’m currently learning Computer Graphics 
 - 💞️ I’m looking to collaborate on Computer Graphics projects
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey), 
 
 <!---
 wobey96/wobey96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
