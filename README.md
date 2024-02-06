@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wobey96, Embedded Software Engineer by day aspiring Graphics Software Engineer by night
+- 👋 Hi, I’m @wobey96, Embedded Software Engineer
 - 👀 I’m interested in Computer Graphics
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey)
 
