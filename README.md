@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wobey96, Embedded Software Engineer
-- 👀 I’m interested in Computer Graphics
+- 👋 Hi, I’m @wobey96, Embedded Software Engineer amd Game Engine Systems Programmer
+- 👀 I’m interested in Embedded Systems and all areas of Game Engine Systems
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey)
 
 <!---
