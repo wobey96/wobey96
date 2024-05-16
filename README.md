@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @wobey96, Embedded Software Engineer and aspiring Game Engine Software Engineer
-- 👀 I’m interested in Embedded Systems and Game Engine Systems
+- 👋 Hi, I’m Wallace, Embedded Software Engineer and aspiring Graphics Programmer :computer::sparkles::video_game:
+- 👀 I’m interested in Graphics Programming areas such as Real-Time Rendering, Physically Based Rendering, and Ray Tracing
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey)
 
 <!---
