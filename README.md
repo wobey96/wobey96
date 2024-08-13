@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Wallace, an Embedded Software Engineer learning Graphics Programming in my free time :computer::sparkles::video_game:
-- 👀 More specifically, I’m interested in real-time rendering, volumetric rendering, physically based rendering, and ray tracing
-- My goal for 2024 is to get FantasyEngineVK, my passion project, into a good place 😄 
+## 💻🎮 Hello, I’m Wallace 💻🎮
+-  Embedded Software Engineer learning Graphics Software Engineering in my free time :computer::sparkles::video_game:
+- 👀 I’m interested in real-time rendering, volumetric rendering, physically based rendering, ray tracing, and CPU/GPU Architecture
+- My goal for 2024 is to work on FantasyEngineVK, GLSL Shaders, and software engineering skills
 <!-- - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey) -->
 
 <!---
