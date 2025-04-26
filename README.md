@@ -1,5 +1,5 @@
 ## 💻🎮 Hello, I’m Wallace 🎮💻
--  Embedded Software Engineer developing graphics and engine technology in my free time :computer::sparkles::video_game:
+-  Embedded Software Engineer :computer::sparkles::video_game:
 <!-- - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey) -->
 
 <!---
