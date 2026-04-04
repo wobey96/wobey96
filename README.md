@@ -1,6 +1,6 @@
 ## :sparkles:💻🎮 Hello, I’m Wallace 🎮💻:sparkles:
--  C++ Software Engineer :computer:
--  Deeply interested in Graphics, Video, AR, VR, and Game Engine Technology. :video_game::sparkles: 
+-  C++ Software Engineer working on video streaming technology :computer:
+-  Deeply interested in Graphics and Game Engine Technology. :video_game::sparkles: 
 <!-- - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/wallace-obey-393672b0), [Twitter](https://twitter.com/WallaceObey) -->
 
 <!---
